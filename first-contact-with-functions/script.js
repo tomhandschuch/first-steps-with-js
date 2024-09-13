@@ -6,10 +6,6 @@ function welcomeMsg(name) {
 console.log(welcomeMsg("Jane"));
 // Welcome Jane!
 
-function welcomeMsg(name) {
-  return "Welcome " + name;
-}
-
 console.log(welcomeMsg("Marc"));
 // Welcome Marc!
 
