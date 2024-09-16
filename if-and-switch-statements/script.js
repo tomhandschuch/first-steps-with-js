@@ -39,7 +39,7 @@ function oldYoung(age) {
     return "invalid parameter";
   } else if (age < 10) {
     return "children"
-  } else if (age > 60) {
+  } else if (age > 50) {
     return "elder person"
   } else {
     return "young person"
